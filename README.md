@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Cauan — profissional de tecnologia na CDC Bank. Tecnologia, código e soluções." />
+  <img src="./assets/header.svg" width="100%" alt="Cauan — profissional de tecnologia na CDC Bank e estudante de Inteligência Artificial. Tecnologia, código e soluções." />
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="Sobre mim: atuo em tecnologia na CDC Bank e compartilho projetos pessoais de desenvolvimento web, bancos de dados e aplicações." />
+  <img src="./assets/about.svg" width="100%" alt="Sobre mim: atuo em tecnologia na CDC Bank, sou estudante de Inteligência Artificial e desenvolvo projetos pessoais para a web." />
 </p>
 
 <p align="center">
@@ -42,10 +42,22 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="mailto:cauanoliveirauai1705@gmail.com"><img src="./assets/contact-email.svg" width="100%" alt="Enviar e-mail para cauanoliveirauai1705@gmail.com" /></a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/cauanjbr/"><img src="./assets/contact-instagram.svg" width="100%" alt="Instagram: @cauanjbr" /></a>
+</p>
+<p align="center">
+  <a href="https://wa.me/5531985028861"><img src="./assets/contact-whatsapp.svg" width="100%" alt="WhatsApp: +55 (31) 98502-8861" /></a>
+</p>
+
 <details>
 <summary>Sobre os projetos · versão em texto</summary>
 
-**Cauan — profissional de tecnologia na CDC Bank.** Projetos pessoais de desenvolvimento web e integração com bancos de dados.
+**Cauan — profissional de tecnologia na CDC Bank e estudante de Inteligência Artificial.** Projetos pessoais de desenvolvimento web e integração com bancos de dados.
+
+[E-mail](mailto:cauanoliveirauai1705@gmail.com) · [Instagram @cauanjbr](https://www.instagram.com/cauanjbr/) · [WhatsApp +55 (31) 98502-8861](https://wa.me/5531985028861)
 
 - [Biblioteca digital](https://github.com/cauanjbr/curso-codeigniter): catálogo público, autenticação, gerenciamento de livros e usuários, upload de capas, autoria e resumos. PHP, CodeIgniter 3, MySQL e Bootstrap.
 - [Site ADV](https://github.com/cauanjbr/site-adv): projeto de site com HTML.

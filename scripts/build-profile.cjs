@@ -28,11 +28,12 @@ function chips(labels,y,accent) {
 }
 function write(name,svg) { fs.writeFileSync(path.join(root,'assets',name+'.svg'),svg); }
 
-write('about',shell('Sobre mim — tecnologia na CDC Bank',245,'#38bdf8',
-text(40,37,'01 / PERFIL',12,'#7dd3fc','letter-spacing="3"')+typed('Tecnologia no dia a dia.',90)+
+write('about',shell('Sobre mim — CDC Bank e Inteligência Artificial',275,'#38bdf8',
+text(40,37,'01 / PERFIL',12,'#7dd3fc','letter-spacing="3"')+typed('Tecnologia & Inteligência Artificial',90,30)+
 text(40,133,'Atuo na área de tecnologia na CDC Bank.',22,'#e2e8f0')+
-text(40,167,'Aqui compartilho projetos pessoais de desenvolvimento web,',20)+
-text(40,196,'bancos de dados e construção de aplicações.',20)));
+text(40,167,'Sou estudante de Inteligência Artificial e desenvolvo projetos',20)+
+text(40,198,'pessoais para a web, conectando código, dados e aplicações.',20)+
+text(40,238,'Curiosidade para explorar. Dedicação para construir.',18,'#7dd3fc')));
 
 write('technology',shell('Tecnologias — PHP, CodeIgniter, MySQL e ferramentas web',245,'#a78bfa',
 text(40,37,'02 / TECNOLOGIAS',12,'#c4b5fd','letter-spacing="3"')+typed('Da interface ao banco de dados.',90,30)+
@@ -58,4 +59,7 @@ project({file:'project-library',title:'Biblioteca digital',repo:'curso-codeignit
 project({file:'project-adv',title:'Site ADV',repo:'site-adv',accent:'#c4b5fd',number:'02',lines:['Projeto de site com HTML.'],tags:['HTML','Desenvolvimento web']});
 project({file:'project-gitrepo',title:'Gitrepo2',repo:'gitrepo2',accent:'#5eead4',number:'03',lines:['Exercícios de desenvolvimento e versionamento de código.'],tags:['HTML','Git','GitHub']});
 write('footer',shell('Explore todos os meus repositórios',100,'#a78bfa',typed('Continue explorando meus projetos →',61,27,'#c4b5fd')));
-console.log('7 cartões SVG gerados.');
+write('contact-email',shell('Contato por e-mail: cauanoliveirauai1705@gmail.com',115,'#38bdf8',text(40,33,'04 / CONTATO · E-MAIL',12,'#7dd3fc','letter-spacing="2"')+typed('cauanoliveirauai1705@gmail.com',82,27)));
+write('contact-instagram',shell('Instagram: @cauanjbr',115,'#c4b5fd',text(40,33,'INSTAGRAM',12,'#c4b5fd','letter-spacing="2"')+typed('@cauanjbr',82,27)));
+write('contact-whatsapp',shell('WhatsApp: +55 (31) 98502-8861',115,'#5eead4',text(40,33,'WHATSAPP',12,'#5eead4','letter-spacing="2"')+typed('+55 (31) 98502-8861',82,27)));
+console.log('10 cartões SVG gerados.');
