@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Cauan — profissional de tecnologia na CDC Bank e estudante de Inteligência Artificial. Tecnologia, código e soluções." />
+  <img src="./assets/header.svg" width="100%" alt="Cauan — desenvolvimento e manutenção de aplicações na CDC Bank. Tecnologia, código e soluções." />
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="Sobre mim: atuo em tecnologia na CDC Bank, sou estudante de Inteligência Artificial e desenvolvo projetos pessoais para a web." />
+  <img src="./assets/about.svg" width="100%" alt="Sobre mim: trabalho na correção de erros e manutenção de aplicações na CDC Bank e desenvolvo projetos pessoais para a web." />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 <details>
 <summary>Sobre os projetos · versão em texto</summary>
 
-**Cauan — profissional de tecnologia na CDC Bank e estudante de Inteligência Artificial.** Projetos pessoais de desenvolvimento web e integração com bancos de dados.
+**Cauan — desenvolvimento e manutenção de aplicações na CDC Bank.** Trabalho na correção de erros e resolução de falhas nas aplicações. Também desenvolvo projetos pessoais para a web e integração com bancos de dados.
 
 [E-mail](mailto:cauanoliveirauai1705@gmail.com) · [Instagram @cauanjbr](https://www.instagram.com/cauanjbr/) · [WhatsApp +55 (31) 98502-8861](https://wa.me/5531985028861)
 

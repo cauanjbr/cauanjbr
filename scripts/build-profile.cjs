@@ -28,11 +28,11 @@ function chips(labels,y,accent) {
 }
 function write(name,svg) { fs.writeFileSync(path.join(root,'assets',name+'.svg'),svg); }
 
-write('about',shell('Sobre mim — CDC Bank e Inteligência Artificial',275,'#38bdf8',
-text(40,37,'01 / PERFIL',12,'#7dd3fc','letter-spacing="3"')+typed('Tecnologia & Inteligência Artificial',90,30)+
-text(40,133,'Atuo na área de tecnologia na CDC Bank.',22,'#e2e8f0')+
-text(40,167,'Sou estudante de Inteligência Artificial e desenvolvo projetos',20)+
-text(40,198,'pessoais para a web, conectando código, dados e aplicações.',20)+
+write('about',shell('Sobre mim — desenvolvimento e manutenção de aplicações na CDC Bank',275,'#38bdf8',
+text(40,37,'01 / PERFIL',12,'#7dd3fc','letter-spacing="3"')+typed('Desenvolvimento & manutenção',90,30)+
+text(40,133,'Correção de erros e manutenção de aplicações na CDC Bank.',22,'#e2e8f0')+
+text(40,167,'Trabalho na resolução de falhas para melhorar o funcionamento',20)+
+text(40,198,'das aplicações e desenvolvo projetos pessoais para a web.',20)+
 text(40,238,'Curiosidade para explorar. Dedicação para construir.',18,'#7dd3fc')));
 
 write('technology',shell('Tecnologias — PHP, CodeIgniter, MySQL e ferramentas web',245,'#a78bfa',
