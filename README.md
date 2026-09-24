@@ -3,55 +3,52 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CDC_BANK-Tecnologia-0d1117?style=for-the-badge&amp;labelColor=182536&amp;color=38bdf8" alt="Tecnologia na CDC Bank" />
-  <img src="https://img.shields.io/badge/Desenvolvimento-Web-0d1117?style=for-the-badge&amp;labelColor=182536&amp;color=a78bfa" alt="Desenvolvimento web" />
+  <img src="./assets/about.svg" width="100%" alt="Sobre mim: atuo em tecnologia na CDC Bank e compartilho projetos pessoais de desenvolvimento web, bancos de dados e aplicações." />
 </p>
 
-## Sobre mim
-
-Sou o **Cauan**, profissional da área de tecnologia na **CDC Bank**. Neste espaço, compartilho meus projetos pessoais de desenvolvimento web, integração com bancos de dados e construção de aplicações.
-
-Meu trabalho nos projetos reúne **PHP, CodeIgniter e MySQL**, com atenção à organização do código, às funcionalidades e à experiência de quem utiliza o sistema.
-
-## Tecnologias
+<p align="center">
+  <img src="./assets/technology.svg" width="100%" alt="Tecnologias: PHP, CodeIgniter 3, MySQL, HTML, CSS, Bootstrap, Git, GitHub, VS Code, XAMPP e MVC." />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap,git,github,vscode&amp;theme=dark&amp;perline=8" alt="PHP, MySQL, HTML, CSS, Bootstrap, Git, GitHub e Visual Studio Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?style=for-the-badge&amp;logo=codeigniter&amp;logoColor=white" alt="CodeIgniter 3" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&amp;logo=xampp&amp;logoColor=white" alt="XAMPP" />
+  <img src="./assets/projects.svg" width="100%" alt="Projetos e repositórios — código que vira projeto." />
 </p>
-
-| Desenvolvimento | Ferramentas e estrutura |
-| :--- | :--- |
-| PHP · CodeIgniter 3 · MySQL | MVC · integração com banco de dados |
-| HTML · CSS · Bootstrap | Interfaces para aplicações web |
-| Git · GitHub · VS Code · XAMPP | Versionamento e ambiente de desenvolvimento |
-
-## Projeto em destaque
-
-### [Biblioteca digital →](https://github.com/cauanjbr/curso-codeigniter)
-
-Aplicação com catálogo público e painel de gerenciamento de livros e usuários.
-
-- **Autenticação:** login e controle de sessão.
-- **Gerenciamento:** cadastro, edição, exclusão e status dos livros.
-- **Catálogo:** capas, autoria e resumos integrados ao MySQL.
-- **Imagens:** upload de capas pelo painel.
-
-`PHP` · `CodeIgniter 3` · `MySQL` · `Bootstrap`
-
-### Outros repositórios
-
-| Projeto | Descrição |
-| :--- | :--- |
-| [Site ADV](https://github.com/cauanjbr/site-adv) | Projeto de site com HTML. |
-| [Gitrepo2](https://github.com/cauanjbr/gitrepo2) | Exercícios de desenvolvimento e versionamento. |
-
----
 
 <p align="center">
-  <a href="https://github.com/cauanjbr?tab=repositories">Explore meus repositórios ↗</a>
+  <a href="https://github.com/cauanjbr/curso-codeigniter">
+    <img src="./assets/project-library.svg" width="100%" alt="Abrir Biblioteca digital: catálogo público, login, gerenciamento de livros e usuários, upload de capas e MySQL. PHP, CodeIgniter 3 e Bootstrap." />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/cauanjbr/site-adv">
+    <img src="./assets/project-adv.svg" width="100%" alt="Abrir Site ADV — projeto de site com HTML." />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cauanjbr/gitrepo2">
+    <img src="./assets/project-gitrepo.svg" width="100%" alt="Abrir Gitrepo2 — exercícios de desenvolvimento e versionamento com HTML, Git e GitHub." />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cauanjbr?tab=repositories">
+    <img src="./assets/footer.svg" width="100%" alt="Explore todos os meus repositórios no GitHub." />
+  </a>
+</p>
+
+<details>
+<summary>Sobre os projetos · versão em texto</summary>
+
+**Cauan — profissional de tecnologia na CDC Bank.** Projetos pessoais de desenvolvimento web e integração com bancos de dados.
+
+- [Biblioteca digital](https://github.com/cauanjbr/curso-codeigniter): catálogo público, autenticação, gerenciamento de livros e usuários, upload de capas, autoria e resumos. PHP, CodeIgniter 3, MySQL e Bootstrap.
+- [Site ADV](https://github.com/cauanjbr/site-adv): projeto de site com HTML.
+- [Gitrepo2](https://github.com/cauanjbr/gitrepo2): exercícios de desenvolvimento e versionamento com HTML, Git e GitHub.
+
+</details>
