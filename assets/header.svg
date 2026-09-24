@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Cauan — Tecnologia e desenvolvimento</title>
+  <desc id="desc">Profissional de tecnologia na CDC Bank. Texto animado com efeito de digitação.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#142336"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ab4d4" stroke-opacity=".06"/></pattern>
+    <clipPath id="typing"><rect x="48" y="172" width="0" height="38"><animate attributeName="width" values="0;435;435;0;0" keyTimes="0;.5;.8;.95;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect width="960" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="960" height="280" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="958" height="278" rx="17" fill="none" stroke="#303d50"/>
+  <rect x="48" y="44" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="102" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#8fa9c5">TECHNOLOGY · DEVELOPMENT</text>
+  <text x="46" y="122" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" fill="#f0f6fc">CAUAN<tspan fill="#38bdf8">.</tspan></text>
+  <text x="48" y="155" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#a9bbd0">Profissional de tecnologia na CDC Bank</text>
+  <g clip-path="url(#typing)"><text x="48" y="200" font-family="Consolas,monospace" font-size="23" fill="#7dd3fc">&gt; Tecnologia, código e soluções.</text></g>
+  <rect x="48" y="178" width="2" height="27" fill="#7dd3fc"><animate attributeName="x" values="48;483;483;48;48" keyTimes="0;.5;.8;.95;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  <text x="48" y="244" font-family="Consolas,monospace" font-size="12" letter-spacing="1" fill="#7991ad">PHP / CODEIGNITER / MYSQL / WEB</text>
+  <text x="792" y="140" font-family="Consolas,monospace" font-size="66" fill="#38bdf8" opacity=".25">&lt;/&gt;</text>
+  <path d="M794 185H895M844 195H895M870 205H895" stroke="url(#accent)" stroke-width="2" opacity=".4"/>
+</svg>
